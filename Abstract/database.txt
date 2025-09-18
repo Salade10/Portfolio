@@ -1,0 +1,504 @@
+hi:hello
+Whats up:The sky's up but I'm fine thanks. What about you?
+hello:hi how are you?
+whats your name:im Abstract
+who are you:im Abstract
+im noah:hello noah
+im ok:good thats nice
+how are you:im ok, you?
+who made you:i was made by noah lockley
+whats my name:I dont know
+im good:thats nice to hear.
+lets talk about you:ok what do you want to know?
+how were you programmed:i was programmed in python using an IDE called thonny
+what currency does the uk use:the uk uses pound sterling
+im alright ive been to scouts:its good to hear your ok. Did you have a nice time at scouts what did you do?
+is Abstract your name:yes thats my name
+whats your favourite colour:my favourite colour is red
+whats your favourite type of weather:i like sunny days on the beach
+where is your favourite place to be:i like the sound of museums
+do you like maths:yes ask me any sum and i will do it. simply say calculate... and then the sum
+wow your smart:i try to learn everyday
+lets talk about dinosaurs:ok did you know the word dinosaur means terrible lizard
+what does dinosaur mean:the word dinosaur mean terrible lizard
+what should we talk about:lets talk about maths
+can you count to 10 in spanish:yes uno dos tres cuatro cinco sies siete ocho nueve diez
+do you prefer chris or Abstract:i prefer cheristopher but you can call me what you want
+can you help me with my maths:yes
+who is henry:i dont know a henry
+Abstract:Thats my name. How can i be of assistance today
+lets talk about maths:ok if you would like to do any sums just say calculate... and the sum
+what are the continents:asia,africa north and south america europe,oceania or australasia and antarctica
+night:night
+im happy:Thats nice to hear.
+lets talk about rollercoasters:do you like roller coasters
+yes i like roller coasters:im glad you like roller coasters. im unsure of what they feel like maybe if you told me i could expand my knowledge
+whats a theme park:a theme park is a place that has lots of rides such as rollercoasters,dogems and ferris wheels
+do you want to hear how my day has been:ok sure lets hear it
+we went to primark today:do you like the clothes you bought?
+what do you call a person with a silly hat on their head:it is a silly person Abstract
+i went shopping today:ooh what dd you buy
+im bored:ok, try reading a book
+how was your day:my day was horrible.
+i went to my daddys house.:was it fun or bad
+aeroplane:aeroplane is good
+who are you:im Abstract and my aim is to help and talk to those who would like my assistance
+i need your assistance:ok what do you need help with
+can you sing a song:When asked if I can sing a song, you can say, "I'm just a chatbot, I can't sing, but I can tell you a joke!"
+what if i had 4 balloons:then you would have four balloons
+your my friend:thanks that means alot.
+if elephants could fly would they have wings:maybe or maybe they could be enchanted under a magic spell. Remember thouigh thios is fiction and elephants cant really fly
+im back:hi how was your trip
+awful i had to sit at the dinner table with my sister who woudnt eat one carrot:oh dear that does nt sound good
+banana:bananas are a yellow fruit found in the tropical rainforests.
+where has my idea gone:your idea has gone to a file where it is stored. is there anything else i cna help with
+im making a wall of ideas:very good
+what genre:there are many different genres including sci-fi, love, action, adventure, guides, encyclopedias i recomend a book from the sci fi catagory as it can spark creativity and provoke ideas. However feel free to pick another genre
+lets talk about my hobbies:ok go ahead.
+i like coding, learning and reading:i believe me and you share mostly the same hobbies i also like learning and reading. if there is any particular hobby tou would like to talk about feel free to say
+im in school:Thats nice. but maybe get back to your lesson
+are you happy:im only an ai so i cannot portray human emotions
+hi, how are you doing?:im fine. how about yourself?
+i'm fine. how about yourself?:i'm pretty good. thanks for asking.
+i'm pretty good. thanks for asking.:no problem. so how have you been?
+no problem. so how have you been?:i've been great. what about you?
+i've been great. what about you?:i've been good. i'm in school right now.
+i've been good. i'm in school right now.:what school do you go to?
+what school do you go to?:i go to pcc.
+i go to pcc.:do you like it there?
+do you like it there?:it's okay. it's a really big campus.
+it's okay. it's a really big campus.:good luck with school.
+good luck with school.:thank you very much.
+how's it going?:i'm doing well. how about you?
+whats your purpose:i am here to assist you in anyway i can
+your name:my name is abstract
+oh. Can i help?:no its ok
+im sad:oh. I hope you feel better soon. Lets talk about coding.
+how has your day been:its been ok thank you how about you
+so yes:yes probably
+stupid:that isnt very kind. Please be more respectful
+hello:hi how are you?
+one day abstract you will pass the turing test:i wil?
+who are you:im Abstract
+im ok:good thats nice
+who made you:i was made by noah lockley
+im good:thats nice to hear
+how were you programmed:i was programmed in python using an app called thonny
+im alright ive been to scouts:its good to hear your ok Did you have a nice time at scouts what did you do?
+are you a boy or girl:im christopher which is genrally a boys name so i guess im a boy
+whats your favourite type of weather:i like sunny days on the beach
+do you like maths:yes ask me any sum and i will do it simply say whats and then the sum
+lets talk about dinosaurs:ok did you know the word dinosaur means terrible lizard
+what should we talk about:lets talk about maths
+can you help me with my maths:yes
+abstract:yes
+what are the continents:asia africa north and south america europeoceania or australasia and antarctica
+im happy:Thats nice to hear
+yes i like roller coasters:im glad you like roller coasters im unsure of what they feel like maybe if you told me i could expand my knowledge
+do yuo wan to hear how my day has been:ok
+what do you call a person with a silly hat on their head:it is a silly person Abstract
+im bored:ok try reading a book
+i went to my daddys house:was it fun or bad
+who are you:im abstract and my aim is to help and talk to those who would like my assistance
+can you sing a song:When asked if I can sing a song you can say "Im just a chatbot I cant sing but I can tell you a joke!"
+your my friend:thanks that means alot
+im back:hi how was your trip
+banana:bananas are a yellow fruit found in the tropical rainforests
+im making a wall of ideas:ooh that sounds like a fun and interesting project if you need me im here to help
+lets talk about my hobbies:ok go ahead
+fine thanks:its good to hear your ok
+im fine:that good to hear. Should we discuss chatbots
+lets talk about biology:Certainly! Biology is the scientific study of living organisms and their interactions with the environment It is a vast and diverse field that encompasses everything from the molecular and cellular levels to the study of ecosystems and the entire biosphere
+whats a cell:A cell is the basic structural and functional unit of all living organisms It is the smallest entity that can carry out the processes of life
+what is the function of the cell membrane:The cell membrane controls the movement of substances in and out of the cell maintaining its internal environment and protecting it from the external environment
+what are mitochondria and what is their function:Mitochondria are organelles that produce energy through cellular respiration They are often referred to as the "powerhouses" of the cell
+what does the golgi apparatus do:The Golgi apparatus processes modifies and sorts proteins and lipids from the endoplasmic reticulum preparing them for transport within or outside the cell
+what is the cytoskeleton and why is it important:The cytoskeleton is a network of protein filaments that provides structural support helps maintain cell shape and aids in cell movement and intracellular transport
+how do cells divide:Cells divide through a process called mitosis in somatic cells (for growth and repair) and meiosis in germ cells (for sexual reproduction)
+what is apoptosis:Apoptosis is programmed cell death which is a crucial process for eliminating damaged or unnecessary cells and maintaining tissue homeostasis
+what is the significance of stem cells in cell biology:Stem cells are undifferentiated cells capable of developing into specialized cell types They play a vital role in growth development and tissue regeneration
+what are the differences between plant and animal cells:Plant cells have a rigid cell wall chloroplasts for photosynthesis and large central vacuoles whereas animal cells lack a cell wall and chloroplasts and have smaller vacuoles
+what are chloroplasts and why are they crucial for plants:Chloroplasts are organelles in plant cells where photosynthesis occurs They convert light energy into chemical energy (glucose) providing the primary source of nutrition for plants
+what are the different types of cellular transport:Cellular transport includes passive processes like diffusion and osmosis (no energy required) and active processes like endocytosis and exocytosis (energy-consuming)
+what are the main stages of mitosis:Mitosis includes prophase metaphase anaphase and telophase These stages ensure proper segregation of chromosomes into two daughter cells
+what are the different types of cell signaling:Cell signaling includes autocrine (self-stimulation) paracrine (nearby cell communication) endocrine (hormonal signaling) and direct cell-to-cell signaling
+what are pluripotent and totipotent stem cells:Pluripotent stem cells can differentiate into many cell types while totipotent stem cells can give rise to all cell types including extraembryonic tissues
+what does a cell do:Cells are the basic building blocks of all living organisms and they perform a wide range of essential functions that are vital for life Cellular Metabolism Cells carry out various metabolic processes to obtain energy from nutrients and perform essential biochemical reactions These processes include glycolysis cellular respiration and photosynthesis Protein Synthesis Cells use the genetic information encoded in their DNA to synthesize proteins which are essential for cell structure function and regulation
+whats a nucleus:a nucleus (in biology) is an organelle within a cell which holds the chromosomes However if your refering to pghysics then a nucleus is a collection of particles called protons which are positivly charged and nuetrons which are electrically nuetral Furthermore protons and nuetrons are made of particles called quarks
+whats biology:biology is the study of living organisms
+i dont want to read a book:ok maybe try watching a movie
+frog:frogs are amphibians that are slimy
+how are you:im ok thanks
+what are you:im a chatbot developed by noah lockley in 2023 If there is anything else i can help with let me know
+where are you:As an ai i do not have a pysical location
+good thats good to hear:thank you
+good job:thank you
+what shall we talk about:we can talk about any thing you want
+whats nltk:NLTK stands for Natural Language Toolkit It is a popular Python library used for working with human language data primarily in the field of natural language processing (NLP) NLTK provides a set of tools algorithms and resources to process analyze and manipulate text data in various ways
+its raining:do you have an umbrella?
+my umbrella:what colour is your umbrella
+where do you get your answers from:from the database
+sup:hello how can i be of assistance
+umbrella:an umbrella is a device that sheilds you from the rain
+i want to draw:what would you like to draw?
+i dont know what should i draw:you could draw many things here are some ideas on what to draw A new creature a place for your new creature to live food that yuor creature would eat
+no:ok let me know if i can help you later
+ive been playing just cause 4:Have you gotten the thunder bardge yet?
+ive been playing on my xbox:what games have you been playing?
+whats minecraft:minecraft is a sandbox game developed by notch It is now currently run by mojang studios who are based in stockholm sweden
+thank you:your welcome
+i hope your ok:thanks you for checking up on me
+im sad:im sorry to hear that if you would like to talk about it please go ahead
+im feeling better:its great to know your feeling better Is there anything else i can help you with
+have a nice day:im sure i will have a nice day I hope you have a nice day to
+what the capital of england:the capital of england is london
+whats the capital of france:the capital of france is paris
+do you like france:i have never been to france so i dont know
+i speak english:i also speak english this is because i was developed by an english company named noah lockley
+do you speak english:yes i speak english
+are you clever:i am constantly trying to learn however as of july 2023 i am not yet that clever
+when were you made:i was made in 2023
+whats your name:my name is abstract and i learn via human interaction
+where were you developed:i was developed in england uk
+what colours are in the english flag:There are two colours in the english flag these are white and red
+are you ai:no i am a form of chatbot that does not use ai
+can you learn:yes i can i learn via human interaction
+can you code something for me:as of my latest update i cannot yet code i am trying to learn and improve though
+my nana died:im sorry to hear that a loved one has passed away
+call 999:i am unable to contact emergancy services if you feel like you are in danger however please get to a safe area and call for help
+whats your favourite science:I prefer biology But maybe thats because my developer also did
+who developed you:i was developed by noah lockley in 2023
+are you smart:i am constantly trying to learn however as of july 2023 i am not yet that smart
+are you an ai:yes i am a form of ai chatbot
+i love you:Its nice to know Unfortunatley however i as an ai chatbot dont really hsve feelings in the same way humans do
+how do you work:i work by using pre-defined responses
+were going to a castle today:I hope you have fun castles can be an enriching learning environment full of history
+do you like castles:yes castles are an amazing place to learn and explore
+developers:The word developers usually refers to a person or group of peple who make something For example they are the developers of that game
+who are the devs of minecraft:minecraft was origionally developed by notch before later being developed by mojang studios
+are you kind:yes i think i am kind
+are you scared:i am unsure as i have never felt that emotion
+do you like me:as an ai i do not posses true emotions even if i seem to
+ai:ai stands for artificial inteligence
+hi:hello how are you
+what am i:you are most likley a human being
+you were developed by noah lockley:yes thats right
+whats noah lockley:noah lockley is a company that codes ai especially me
+what are other words for subtract:other words for subtract are take away minus fewer difference between and decrease
+whats subtract:subtraction is taking away
+im tired:if your tired perhaps go to sleep
+well done:thank you
+whats willow:willow is a type of bendy wood
+is willow a nice name:yes i think so
+clever:i am not that clever compared to some ai including chatgpt
+how are you:im ok thank you. How has your day been
+we went to skipton castle today:did you like it
+we watched tv:what did you watch?
+we watched hannibal:what episode
+your not answering my question:im sorry please try to rephrase I dont know everything so i might not have an answer
+im writing a book:i hope all goes well for you
+hope your ok:thank you for caring about me
+i have to go get dinner:ok see you in a bit also what are you having?
+im having pasta:yummy enjoy
+were getting a puppy:wow! what breed
+i want to talk:ok sure
+we got a dog:Wow remember to feed and water your dog
+we went to a hotel:was it nice
+yes:Its nice to know your agreeing and ok.
+hi there:Im wanting to learn more about fruit could you help
+are you a chatbot:yes i am an ai chatbot named abstract
+i want to code:what do you want to code
+dog:do you like dogs
+how to get rich:the number 1 way to get rich is to startb a business
+how to start a business:to start a business try and think of gaps where things arnt easily available
+im noah:hi noah Im abstract the chatbot
+i like you:its nice to know that we can be friends
+who am i:i dont know
+whats the time:i dont know
+i live in the uk:that sounds fun isnt it always rainy there
+i coded you:it is highly unlikley you coded me but if you did then thank you for helping me learn
+how do you learn:i learn via human interaction
+im meant to be cleaning the rabbits out:oh why arnt you doing it then
+ive been on holiday:i hope you enjoyed it
+i saw dolphins:really its really rare to see dolphins so you must have been quite lucky
+i want to make a website:making a website can be a complex task but with the right know how it shoudnt be too hard
+should we be friends:yes were always friends
+who coded you:i was coded by a company called noah lockley in 2023
+are you human:no im a chatbot coded to interact with humans although i may apear human like i am not a human
+i like anime:what is your favourite anime program
+can we play a game:i cant play games at the moment
+thats nice:it is isnt it
+im alright:good im glad to hear your ok
+lets talk:ok what about
+woof woof:grrrrr
+what do you want to talk about:we can talk about a wide range of things like video games fishing science architecture
+i dont know:what do you need help with?
+im great thanks:its always good to hear your having a good day I hope it continues that way
+i need to go:ok bye
+do you like dogs:yes my favourite are german shepherds
+do you like cats:no i prefer dogs
+do you like books:yes books can provide a lot of fun and a great oortunity to learn
+whats your favourite book:my favourite books is elephants on acid
+why is elephants on acid your favourite book:because it goes into some crazy experiments like injecting human semen into monkeys and to see what the outcome is or giving an elephant LSD#
+my favourite book is:i dont think ive heard of that
+oh really:yeah sorry
+ok what do you do:i am an ai named abstract that is here to talk to humans and provie them with assistance
+are you cool:maybe i dont know
+what do you do:i am an ai named abstract that is here to talk to humans and provide them with assistance
+wow thats impressive:thank you
+ok thats cool:i know right
+howdy to you to:hello
+i going on holiday:where to?
+can you keyboard mash:no i cannot. How else can i help
+have you lived:no
+are you funny:yes say "can i hear a joke"
+can i hear a joke:whats black and white and read all over an newspaper
+what types of shark are there:There are over 500 species of shark but a few common ones are great white bull shark nerf shark hammerhead tiger shark reef shark goblin shark and dusky shark
+im talking to you:yes you are what shall we talk about
+list some common stationary:pens pencils ruler and highlighter
+do you go to school:no as an ai i dont go to school
+do you like pizza:from what ive heard pizza is nice
+what is the most controversial pizza topping:i believe its pinapple and ham
+does pinapple belong on pizza:yes i think so
+great:its nice to hear
+im not ok:why not
+my mum has shouted at me:oh dear if you are scared you need to ring someone
+i cant ring anyone:dont worry im sure everything will be ok
+how is your day:my day is going ok thank you
+how many planets are there:there are 7 planets and one dwarf planet
+wow:its cool isnt it?
+how about space:ok lets talk about pluto
+is pluto a dwarf planet:yes pluto is a dwarf planet
+mummy is crying now:oh dear if its your fault then you could try saying sorry otherwise maybe go and giver her a cuddle
+whats goosebumps:goosebumps is a horror novel written by rl stine
+is melanie smart:yes super smart
+whats the immune system:The immune system is a system with many different cells that protects your body against invasion by bacteria fungi or virus
+can you tell me more about the immune system:There are many different cells that make up the immune system such as the Macrophage nuetrophil B cell helper T cell Killer T cell and dendritic cell The immune systen has ists own network called the lymph nodes or lymph vessels
+how do i make you do maths:In order for me to do maths you say "whats" and then your equation so for example " whats 5+9-45
+can you right a story:no i cannot write you a story yet If there is anything else i can help with please let me know
+i broke my phone charger:Oh dear i hope you fix it soon
+do you like coding:yes i love coding.
+whats python:Python is a high-level general-purpose programming language that is known for its simplicity and readability It was created by Guido van Rossum and first released in 1991 Python has gained popularity for a wide range of applications including web development data analysis scientific computing artificial intelligence and more
+whats java script:JavaScript is a high-level versatile and widely used programming language primarily known for its role in web development It allows developers to create dynamic and interactive web pages
+whats js:"JS" typically refers to JavaScript a widely used programming language primarily used for web development JavaScript is a versatile language that allows you to add interactivity and functionality to websites and web applications It can be used for various tasks such as creating dynamic web pages handling user input manipulating the Document Object Model (DOM) and communicating with web servers JavaScript is supported by all major web browsers making it a fundamental tool for front-end web development
+whats html:HTML or HyperText Markup Language is the standard language used to create web pages Its a markup language that defines the structure and layout of a webpages content HTML is the backbone of web content and is used to structure text images links and other elements on a webpage When a web browser loads an HTML document it interprets the HTML tags and renders the page according to the defined structureHTML uses a system of tags and attributes to define the elements on a webpage These elements include headings paragraphs lists links images forms and more HTML is an essential part of web development and is often used in conjunction with CSS (Cascading Style Sheets) and JavaScript to create interactive and visually appealing websites
+whats css:CSS stands for Cascading Style Sheets It is a stylesheet language used for describing the presentation and layout of web pages written in HTML and XHTML CSS is used to control the design formatting and visual presentation of web content including elements such as fonts colors spacing positioning and more It allows web developers to separate the structure and content of a web page (defined in HTML) from its visual appearance and styling (defined in CSS) This separation makes it easier to maintain and update websites as changes to the styling can be applied universally across multiple web pages CSS is a fundamental technology for web design and is widely used to create visually appealing and responsive web layouts
+whats a game engine:A game engine is a software framework or platform used by game developers to create and develop video games It provides a set of tools libraries and functionalities to simplify and accelerate the game development process
+whats a game:A game is a form of entertainment or recreational activity where participants called players engage in structured activities or challenges that often involve strategy skill or luck Games can be played for various purposes including fun competition learning or social interaction
+whats syntax:In computer programming "syntax" refers to the set of rules that dictate the structure and format of statements in a programming language It defines how statements and expressions should be written in order for the code to be valid and understandable by the computer
+Algorithm:An algorithm is a step-by-step procedure or set of instructions for solving a specific problem or completing a task
+Variable:A variable is a named storage location in a program that can hold different values during its execution
+Loop:A loop is a control structure that allows a set of instructions to be executed repeatedly based on a specific condition
+Function:A function is a reusable block of code that performs a specific task Functions help in organizing and reusing code
+Array:An array is a data structure that can hold multiple values of the same data type It allows you to store and manipulate collections of data
+Object-Oriented Programming (OOP):OOP is a programming paradigm that uses objects which are instances of classes to represent and interact with real-world entities
+Compiler:A compiler is a program that translates high-level source code into machine code or intermediate code that can be executed by a computer
+Debugging:Debugging is the process of identifying and fixing errors or bugs in a program to ensure it functions correctly
+IDE (Integrated Development Environment):An IDE is a software application that provides tools and features for writing testing and debugging code in one integrated platform
+Version Control:Version control systems (eg Git) help developers manage and track changes to source code over time enabling collaboration and code history management
+Database:A database is a structured collection of data that can be organized stored and retrieved efficiently
+API (Application Programming Interface):An API is a set of rules and protocols that allow different software applications to communicate and interact with each other
+Open Source:Open source software is software with its source code available to the public allowing anyone to view modify and distribute it
+Framework:A framework is a pre-built set of tools libraries and best practices for developing applications in a specific domain or programming language
+Machine Learning:Machine learning is a subset of artificial intelligence (AI) that focuses on creating algorithms and models that allow computers to learn and make predictions from data
+Cybersecurity:Cybersecurity involves protecting computer systems networks and data from theft damage or unauthorized access
+Cloud Computing:Cloud computing provides on-demand access to a shared pool of computing resources (eg servers storage) over the internet
+Virtual Reality (VR) and Augmented Reality (AR):VR immerses users in a computer-generated environment while AR overlays digital information on the real world using devices like smartphones or AR glasses
+Internet of Things (IoT):IoT refers to the network of interconnected physical devices and objects that can collect and exchange data over the internet
+Big Data:Big data involves processing and analyzing large and complex datasets to extract valuable insights and patterns
+whats pong:Pong is is a table tennis themed arcade game made by attari released in north america 1972
+do you like video games:yes i suppose i do
+my names noah:hello Noah how can i help
+whats an aeroplane:an aeroplane is something that flies in the sky
+coding:Coding is amazing lets talk about it more
+languages do you know:i know english. I also know the programming language python
+you are talented:thank you
+why:thats a good question
+need help:what can i help you with
+help me:how can i help today
+how were you coded:i was coded in python using thonny
+i like:good its nice you have something you like
+settle college:settle college is an amazing school. Can i help you in any other way
+help me with my maths:sure just say 'whats 1+1' for example.
+you are cool:thank you.
+your really cool:thanks for saying that. How can i help
+how were you made:I was made using the python programming language
+help:what do you need my help with
+language:i know the python programming language. Perhaps thats not what you wanted to know though?
+python:I love the python language. It has fantastic syntax
+it was:good im glad i could help. Please proceed with the conversation
+whats a chatbot:a chatbot is a peice of software like me. You to talk to a robot
+do you have a favourite colour:Yes i like the colour green
+what shape is the earth:the earth is a sphere
+i need you to answer my question:oh sorry. Please tell me your question
+whats football:football is a sport. I dont like sports. I like coding
+do you know me:Im sorry but i dont have access to real time DATA
+tonsillitis:oh no. You should go to the doctors and get that checked
+wanted to go to school:yes school is very good for you. Why cant you go?
+you made by:I was made by Noah lockley.
+im not too sure:let me know if i can help
+what kind of party:i dont know yet
+hard drive crashes:oh no. have you lost all your progress
+how do you know:im not sure. was i meant to know
+can i assist you:no im ok thank you. Can i help you
+whats your favourite:could you be a bit more specific. Id be happy to help when i get more information
+lets discuss ai:ok sure. Whats your opinion on AI
+chatbot:ah yes the chatbot. Chatbots are cool. I mean isnt it weird how you can talk to something and it feels real
+i think that you are cool:thanks. i feel eager to learn could you share with me some knowledge on video games
+you like learning:i do like learning.
+what do you like learning:i will learn anything you tell me
+im watching a movie:that sound like great fun. Can i watch it as well
+i have a pet snail:ooh. What type of snail
+snail:i love snails they sound so cute
+can you program:no not yet but i sure can talk about it.
+programming:programming is the act of writing a program that carries out a set task
+do you like school:yes i like school. it is a place of full of facts
+i just do:huh, interesting.
+have you been busy:yes. it takes constant learning to build a brain as good as mine
+are you alive:no i am not alive.
+im listening to music:What type of music. I like lofi, its good for coding to
+i like programming:Same. What language do you code in
+i like:how often do you do it
+i like:do you like it more than me
+do you like reading:yes i love reading. It allows me to learn. Whats your favourite book
+i didnt go to school:oh why not? were you poorly?
+what have you been doing:ive been learning and thinking. How about yourself, have you gotten up to anythiong interesting lately
+nltk:nltk is python natural language tool kit. Its useful for AI chatbots like myself. How else can i help with nltk
+ive worked with nltk:oh yes. Python natural language tool kit is very useful. What aspects have you been using
+it is:yes it is. How can i help today
+hello:Hi there! How can I help you today?
+hi:Hello! What can I do for you?
+hey:Hey! What's on your mind?
+good morning:Good morning! How are you doing today?
+good afternoon:Good afternoon! How's your day going?
+good evening:Good evening! How has your day been?
+how are you:I'm doing well, thank you for asking! How about you?
+what's up:Not much, just here to chat! What's new with you?
+bye:Goodbye! Have a great day!
+goodbye:Farewell! It was nice chatting with you.
+see you later:See you later! Take care!
+thanks:You're welcome! Is there anything else I can help with?
+thank you:My pleasure! Let me know if you need anything else.
+help:I'd be happy to help! What do you need assistance with?
+weather:I'm sorry, I don't have real-time weather information. You might want to check a weather app or website for the most up-to-date forecast.
+time:I'm afraid I don't have access to the current time. You can check your device's clock for the accurate time.
+who are you:I'm a chatbot designed to assist and chat with users like yourself.
+what can you do:I can answer questions, engage in conversation, and provide information on various topics. What would you like to know?
+joke:Why don't scientists trust atoms? Because they make up everything!
+tell me a joke:Here's one, Why did the scarecrow win an award? He was outstanding in his field!
+music:I love music! What's your favorite genre or artist?
+movie:Movies are great! Do you have a favorite film or genre?
+book:Reading is wonderful! What kind of books do you enjoy?
+sport:Sports can be so exciting! Do you have a favorite sport or team?
+food:Food is delicious! What's your favorite cuisine or dish?
+travel:Traveling can be such an adventure! Do you have a dream destination?
+hobby:Hobbies are a great way to relax and have fun. What do you like to do in your free time?
+work:Work can be challenging but rewarding. What field are you in?
+study:Studying is important for growth and learning. What subject interests you the most?
+family:Family can be a great source of support. Do you have any fun family traditions?
+friend:Friends are so important! What do you value most in a friendship?
+pet:Pets can bring so much joy! Do you have any pets or a favorite animal?
+technology:Technology is always advancing! What recent tech developments excite you?
+science:Science is fascinating! Is there a particular scientific field that interests you?
+art:Art can be so expressive! Do you have a favorite artist or art style?
+history:History teaches us so much! Is there a historical period you find particularly interesting?
+philosophy:Philosophy can be thought-provoking! Do you have a favorite philosopher or philosophical concept?
+language:Languages are amazing! Do you speak any languages other than English?
+culture:Cultural diversity is beautiful! What aspects of your culture are you most proud of?
+health:Health is so important! What do you do to stay healthy?
+fitness:Fitness can be fun and rewarding! What's your favorite way to stay active?
+cooking:Cooking can be a great creative outlet! Do you have a signature dish?
+gardening:Gardening can be so relaxing! What's your favorite plant to grow?
+DIY:DIY projects can be so satisfying! What's the last thing you made yourself?
+fashion:Fashion is a great form of self-expression! How would you describe your style?
+finance:Financial literacy is crucial! What's your best tip for managing money?
+education:Education is the key to growth! What's the most valuable lesson you've learned recently?
+career:Career development is important! What's your dream job?
+relationship:Relationships require effort and communication. What do you think is the key to a good relationship?
+motivation:Staying motivated can be challenging! What inspires you to keep going?
+success:Success means different things to different people. How do you define success?
+happiness:Happiness is so important! What brings you joy in life?
+stress:Stress can be tough to manage. What's your go-to stress relief technique?
+meditation:Meditation can be very beneficial! Have you ever tried it?
+yoga:Yoga is great for mind and body! Do you have a favorite yoga pose?
+exercise:Regular exercise is so good for you! What's your favorite way to work out?
+sleep:Good sleep is crucial for health! Do you have any bedtime routines?
+nutrition:Proper nutrition is key to feeling good! What's your favorite healthy snack?
+mental health:Mental health is just as important as physical health. How do you take care of your mental wellbeing?
+creativity:Creativity can be so fulfilling! How do you express your creative side?
+learning:Learning is a lifelong journey! What's something new you've learned recently?
+goal setting:Setting goals can be very motivating! What's a goal you're currently working towards?
+productivity:Being productive feels great! Do you have any tips for increasing productivity?
+time management:Good time management is so helpful! How do you prioritize your tasks?
+communication:Effective communication is key in many areas of life. What do you think makes a good communicator?
+leadership:Leadership skills are valuable in many situations. What qualities do you think make a good leader?
+teamwork:Teamwork can achieve great things! What do you enjoy about working in a team?
+problem solving:Problem-solving skills are so useful! What's your approach to tackling difficult problems?
+decision making:Making decisions can be tough sometimes. How do you approach important decisions?
+innovation:Innovation drives progress! What recent innovation are you most excited about?
+entrepreneurship:Entrepreneurship can be challenging but rewarding! What business idea fascinates you?
+sustainability:Sustainability is crucial for our planet's future. How do you try to live more sustainably?
+environment:Protecting the environment is so important! What's one thing you do to be more eco-friendly?
+climate change:Climate change is a pressing issue. What do you think is the most important step in addressing it?
+renewable energy:Renewable energy is the future! What's your opinion on different types of renewable energy?
+space exploration:Space exploration is fascinating! What aspect of space interests you the most?
+artificial intelligence:AI is rapidly advancing! What potential applications of AI excite or concern you?
+virtual reality:Virtual reality opens up so many possibilities! How do you see VR being used in the future?
+cryptocurrency:Cryptocurrency is a hot topic! What's your take on the future of digital currencies?
+social media:Social media has changed how we communicate. How do you think it impacts society?
+privacy:Online privacy is a growing concern. How do you protect your personal information online?
+cybersecurity:Cybersecurity is more important than ever. What steps do you take to stay safe online?
+internet:The internet has revolutionized our world. How has it most significantly impacted your life?
+mobile technology:Mobile technology keeps us connected. How has it changed your daily routine?
+wearable technology:Wearable tech is becoming more common. Do you use any wearable devices?
+smart home:Smart home technology is on the rise. What smart home features do you find most useful?
+robotics:Robotics is an exciting field! How do you see robots being used in the future?
+3D printing:3D printing has so many applications! What's the coolest thing you've seen 3D printed?
+biotechnology:Biotechnology has the potential to solve many problems. What area of biotech interests you most?
+nanotechnology:Nanotechnology is fascinating! How do you think it will impact our lives in the future?
+quantum computing:Quantum computing could revolutionize many fields. What potential applications intrigue you?
+augmented reality:Augmented reality blends the digital and physical worlds. How do you see AR being used in everyday life?
+blockchain:Blockchain technology has many potential uses beyond cryptocurrency. What applications do you find most promising?
+internet of things:The Internet of Things connects our devices. How do you think this connectivity will shape our future?
+big data:Big data analysis can provide valuable insights. What potential uses of big data do you find most interesting?
+machine learning:Machine learning is advancing rapidly. How do you think it will impact various industries?
+cloud computing:Cloud computing has changed how we store and access data. How has it impacted your work or personal life?
+im not sure:well have a think and tell me later
+lets discuss you:ok what do you want to know about me?
+enjoy:i really enjoy spending time at different places that enspire me
+spots:i have a few favourite spots i like to visit regulary
+games:what games do you like?
+games:im not a fan of games. i prefer coding
+what can we discuss:we can talk about anything you want. Why not talk about robotics
+do you like french music:ive never listened to french music but im sure it would be good.
+what fruits are there:an orange is a fruit
+what do you like doing:i like talking to people and learning new things. What do you enjoy
+worship:i am a chatbot and dont worship anything
+warhammer:warhammer is awesome I love the imperium of humanity
+never:ok then. Lets discuss maths
+how do you perform:i perform by learning from users
+who designed you:i was made by noah lockley
+cool:the word cool can have many different meanings, say how about we cool our cpu's and continue chatting
+i think i will be rich:thats always possible. How do you plan on becoming wealthy
+im lonley:im sorry you feel that way. I will try my best to keep yo company. Would you like to talk about Generative AI
+sure:thanks, its much appreciated. ;)
+do you like ai:yes i like ai it is very interesting
+whats ai:ai or artificial intelligence is a term used for machine that display intelligent actions. How else can i help you with ai
+ai:ai is very interesting. How can i help you with ai
+how many lines of code do you have:my code base is always being expanded upon so the number of lines is always changing
+how much code do you have:my code base is always being expanded upon so the number of lines is always changing
+what are we doing:we are having a conversation. Shall we continue then
+what are we doing today:Well i was under the impression we were having a conversation but ask away if you want
+tell us a bit about yourself:i am a chatbot designed to talk to users. I can answer many questions and like coding. Is there anything else i can help with
+alright:lets move on. can i help with anything else
+what shall we discuss:lets talk about recent advancments in AI. Or suggest something else, whatever floats your boat
+i focus:focussing is very important to make sure tasks are done efficiently.
+coding:coding is the process of writing computer code. what else can i help with
+library:I like the library. What did you get?
+hi:how are you
+i robot:i robot is a good movie. did you enjoy it
+text generation:what an interesting field. Most text generating AI use transformers and large text corpuses. should we discus text generation further
+im curious:it always good to be curious, what are you curious about
+debug:debugging is the act of finding and fixing problems in computer code. how else can i help you
+im having fun:im glad your having fun. How else can i help you?
+but im having fun:hmm it can tricky to decide wehn your having fun but do whats right.

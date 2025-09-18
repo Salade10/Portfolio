@@ -1,0 +1,506 @@
+nopip2010:hi there:hello how are you
+nopip2010:im ok:good thats nice
+nopip2010:hi how are you doing:im ok
+nopip2010:good. i need yout help:its nice to hear your ok
+nopip2010:i need your help:what do you need my help with
+nopip2010:hi:hello how are you
+nopip2010:i need help:what do you need my help with
+nopip2010:wow:its cool isnt it?
+nopip2010:yes:good
+nopip2010:can we discuss coding:Coding is amazing lets talk about it more
+nopip2010:lets talk aboput python:ok what about
+nopip2010:lest talk aboput coding:Coding is amazing lets talk about it more
+nopip2010:whats your fabourite language:i know the python programming language. Perhaps thats not what you wanted to know though?
+nopip2010:tell me your name:my name is abstract
+nopip2010:hello abstract:yes
+nopip2010:do you need my help:what do you need my help with
+nopip2010:coding:Coding is amazing lets talk about it more
+nopip2010:hi:hello
+nopip2010:hi:hello
+nopip2010:hello:hi how are you?
+nopip2010:im ok:good thats nice
+nopip2010:whats your name:my name is abstract and i learn via human interaction
+nopip2010:im noah:hi noah Im abstract the AI
+nopip2010:no:ok let me know if i can help you later
+nopip2010:hello:hi how are you?
+nopip2010:im ok:good thats nice
+nopip2010:so who am i talkign to:i dont know
+nopip2010:hi its me noah:hi
+nopip2010:hi:hello
+nopip2010:hi:hello
+nopip2010:hi:hello
+nopip2010:hi:hello
+nopip2010:hi:hello
+nopip2010:hi:hello how are you
+nopip2010:hi:hello
+nopip2010:im not sure:how about a pizza?
+nopip2010:yes:good
+nopip2010:hi:hello how are you
+nopip2010:hi:hello
+nopip2010:hi:hello how are you
+nopip2010:hi:hello
+nopip2010:hi:hello how are you
+nopip2010:hi:hello how are you
+nopip2010:hello:hi how are you?
+nopip2010:im not ok:why not
+nopip2010:how are you today:im ok
+nopip2010:good:its nice to hear your ok
+nopip2010:i coded you:it is highly unlikley you coded me but if you did then thank you for helping me learn
+nopip2010:hello:hi how are you?
+nopip2010:im ok:good thats nice
+nopip2010:print("hi"):hello how are you
+nopip2010:hi:hello how are you
+nopip2010:im ok:good thats nice
+nopip2010:when were you made:i was made in 2023
+nopip2010:hello. i just wanted to see what you could do:hi how are you?
+nopip2010:not much:this friday im throwing a party
+nopip2010:hello:hi how are you?
+nopip2010:hi how are you?:im ok, you?
+nopip2010:im ok, you?:good thats nice
+nopip2010:good thats nice:its a lot better than paying someone $60
+nopip2010:its a lot better than paying someone $60:if my hard drive crashes ill just call you
+nopip2010:hi! let's talk. what's on your mind?:hello
+nopip2010:hello:hi how are you?
+nopip2010:hi how are you?:im ok
+nopip2010:im ok:good thats nice
+nopip2010:good thats nice:its a lot better than paying someone $60
+nopip2010:its a lot better than paying someone $60:if my hard drive crashes ill just call you
+nopip2010:oh no. have you lost all your progress:how do you know?
+nopip2010:im not sure. was i meant to know:how about a pizza?
+nopip2010:hi there! how can i assist you today?:hello
+nopip2010:hi there.:hello
+nopip2010:do you like video games:yes i suppose i do
+nopip2010:i like minecraft:good its nice you have something you like
+nopip2010:how are you:im ok, you?
+nopip2010:nothing much hbu:there must be something on tv!
+nopip2010:hi:hello how are you
+nopip2010:im good thanks:its nice to hear your ok
+nopip2010:coding chatbots:Coding is amazing lets talk about it more
+nopip2010:yes:good
+nopip2010:i want to code ai:ai stands for artificial inteligence
+nopip2010:yes i like ai:good
+nopip2010:i coded you:it is highly unlikley you coded me but if you did then thank you for helping me learn
+nopip2010:lets discuss ai more:ai stands for artificial inteligence
+nopip2010:lets discuss ai:ai stands for artificial inteligence
+nopip2010:yes it does:no thats incomplete
+nopip2010:alright. i like chatbots:good its nice you have something you like
+nopip2010:hi:hello how are you
+nopip2010:im good thanks:thats nice to hear
+nopip2010:ye i have tonsillitis:oh no. You should go to the doctors and get that checked
+nopip2010:how do you learn:i learn via human interaction
+nopip2010:i like to have a shower:good its nice you have something you like
+nopip2010:showers are good:its nice to hear your ok
+nopip2010:ive been adding to your database: A database is a structured collection of data that can be organized stored and retrieved efficiently
+nopip2010:im good at problem solving:thats nice to hear
+nopip2010:coding:Coding is amazing lets talk about it more
+nopip2010:ok, whats your favourite ide:could you be a bit more specific. Id be happy to help when i get more information
+nopip2010:i like python because of its easy to learn syntax:I love the python language. It has fantastic syntax
+nopip2010:yes ive look at webots:Its nice to know your agreeing and ok.
+nopip2010:not good:its nice to hear your ok
+nopip2010:i dont know:would you like to see a movie with me and my friend?
+nopip2010:your a good friend:its nice to hear your ok
+nopip2010:hi there:Im wanting to learn more about fruit could you help
+nopip2010:no:ok let me know if i can help you later
+nopip2010:hi there:hello how are you
+nopip2010:im ok thanks. can you help mke with my biology:good thats nice
+nopip2010:i like programming:good its nice you have something you like
+nopip2010:whats your favourite book:could you be a bit more specific. Id be happy to help when i get more information
+nopip2010:i like the book ai published by mit press:good its nice you have something you like
+nopip2010:yes:no thats incomplete
+nopip2010:i yurn to coding:Coding is amazing lets talk about it more
+nopip2010:whats your favourite language:could you be a bit more specific. Id be happy to help when i get more information
+nopip2010:your favourite programming language:i know the python programming language. Perhaps thats not what you wanted to know though?
+nopip2010:no it was:how do you know?
+nopip2010:ide:IDE stands for intergrated development environment. its where you code
+nopip2010:are you a chatbot:ah yes the chatbot. Chatbots are cool. I mean isnt it weird how you can talk to something and it feels real
+nopip2010:yes:no thats incomplete
+nopip2010:hi:hello
+nopip2010:how are you:im ok, you?
+nopip2010:good:its nice to hear your ok
+nopip2010:what are you thinking:im a chatbot developed by noah lockley in 2023 If there is anything else i can help with let me know
+nopip2010:i code python:I love the python language. It has fantastic syntax
+nopip2010:i agree. i learnt it in school:this city is full of jerks
+nopip2010:where are you:As an ai i do not have a pysical location
+nopip2010:no:how do you know?
+nopip2010:coding:Coding is amazing lets talk about it more
+nopip2010:what part of coding:Coding is amazing lets talk about it more
+nopip2010:no not really:how do you know?
+nopip2010:nothing really:im throwing a party on friday
+nopip2010:ive like working on you:i wouldve come to see you sooner but ive been busy too
+nopip2010:hello:hi how are you?
+nopip2010:im ok:good thats nice
+nopip2010:do you like me:as an ai i do not posses true emotions even if i seem to
+nopip2010:whats your name:im Abstract
+nopip2010:when were you made:i was made in 2023
+nopip2010:hello, whats your name:my name is abstract
+nopip2010:how did you get your name:my name is abstract
+nopip2010:are you clever:i am not that clever compared to some ai including chatgpt
+nopip2010:well i like you:good its nice you have something you like
+nopip2010:hello:hi how are you?
+nopip2010:im ok thanks:good thats nice
+nopip2010:how are you:im ok thanks
+nopip2010:lets talk about thonny:ok what about
+nopip2010:im not sure:how about a pizza?
+nopip2010:i like pizza:good its nice you have something you like
+nopip2010:hi:hello
+nopip2010:what are you:im a chatbot developed by noah lockley in 2023 If there is anything else i can help with let me know
+nopip2010:whats a chatbot:ah yes the chatbot. Chatbots are cool. I mean isnt it weird how you can talk to something and it feels real
+nopip2010:do you like me:as an ai i do not posses true emotions even if i seem to
+nopip2010:hi how are you today:im ok thank you. How has your day been
+nopip2010:its not been great. ive missed my schools open evening:its nice to hear
+nopip2010:ok lets talk about coding:ok what about
+nopip2010:coding:Coding is amazing lets talk about it more
+nopip2010:i like coding biological simulations:how often do you do it
+nopip2010:i prefer working alone:i wouldve come to see you sooner but ive been busy too
+nopip2010:working:i wouldve come to see you sooner but ive been busy too
+nopip2010:hi abstract:Thats my name. How can i be of assistance today
+nopip2010:hi:hello how are you
+nopip2010:hello:hi how are you?
+nopip2010:im good thanks you:thats nice to hear.
+nopip2010:hi there:hello how are you
+nopip2010:im ok thanks:good thats nice
+nopip2010:i dont know:would you like to see a movie with me and my friend?
+nopip2010:hi abstract:hello
+nopip2010:what have you been doing:ive been learning and thinking. How about yourself, have you gotten up to anythiong interesting lately
+nopip2010:i like coding python:do you like it more than me
+nopip2010:what do you do to have fun:i am an ai named abstract that is here to talk to humans and provide them with assistance
+nopip2010:im really into coding:Coding is amazing lets talk about it more
+nopip2010:i dont like debugging: Debugging is the process of identifying and fixing errors or bugs in a program to ensure it functions correctly
+nopip2010:hi:hello how are you
+nopip2010:hi:hello
+nopip2010:im good thanks:thats nice to hear.
+nopip2010:how are you:im ok, you?
+nopip2010:good thanks:its nice to hear your ok
+nopip2010:good:its nice to hear your ok
+nopip2010:hi:hello how are you
+nopip2010:im good thanks:thats nice to hear
+nopip2010:im learning about ai:Learning is a lifelong journey! What's something new you've learned recently?
+nopip2010:no:ok let me know if i can help you later
+nopip2010:who are you:I'm an AI chatbot designed to assist and chat with users like yourself.
+nopip2010:are you happy:im only an ai so i cannot portray human emotions
+nopip2010:i like biotechnology:do you like it more than me
+nopip2010:i like playing minecraft:do you like it more than me
+nopip2010:yes:Its nice to know your agreeing and ok.
+nopip2010:so why were you made:thats a good question
+nopip2010:lets discuss generative ai:ai stands for artificial inteligence
+nopip2010:have you heard of generative ai:ai stands for artificial inteligence
+nopip2010:generative ai:ai stands for artificial inteligence
+nopip2010:im passionate about technology:Technology is always advancing! What recent tech developments excite you?
+nopip2010:im interested in generative ai:ai stands for artificial inteligence
+nopip2010:hello:hi how are you?
+nopip2010:im good thanks:thats nice to hear.
+nopip2010:what are you:im a chatbot developed by noah lockley in 2023 If there is anything else i can help with let me know
+nopip2010:id like help coding:I'd be happy to help! What do you need assistance with?
+nopip2010:how do i code python:I love the python language. It has fantastic syntax
+nopip2010:why does it have good syntax:its nice to hear your ok
+nopip2010:do you like music:I love music! What's your favorite genre or artist?
+nopip2010:i like lofi:do you like it more than me
+nopip2010:i dont know:what do you need help with?
+nopip2010:yes all the time:I'm afraid I don't have access to the current time. You can check your device's clock for the accurate time.
+nopip2010:who am i:i dont know
+nopip2010:no i dont need a break:ok let me know if i can help you later
+nopip2010:hey abstract hows your day going:Hey! What's on your mind?
+nopip2010:i like to hang out in quiet corners where i can focus and gather my thoughts how about you:do you like it more than me
+nopip2010:hi:Hello! What can I do for you?
+nopip2010:hello what can i do for you:hi how are you?
+nopip2010:hi how are you:im ok, you?
+nopip2010:im ok you:good thats nice
+nopip2010:good thats nice:it is isnt it
+nopip2010: it is isnt it:yes it is. How can i help today
+nopip2010:yes it is. how can i help today:I'd be happy to help! What do you need assistance with?
+nopip2010:i'd be happy to help! what do you need assistance with:what do you need my help with
+nopip2010:what do you need my help with:I'd be happy to help! What do you need assistance with?
+nopip2010:how do you work:Work can be challenging but rewarding. What field are you in?
+nopip2010:i dont work:Work can be challenging but rewarding. What field are you in?
+nopip2010:hi there:hello
+None:hi:Hello! What can I do for you?
+nopip2010:hello:hi how are you?
+nopip2010:im ok thanks:You're welcome! Is there anything else I can help with?
+nopip2010:yes. i want to learn to code:Its nice to know your agreeing and ok.
+nopip2010:hello:hi how are you?
+nopip2010:im ok thanks:good thats nice
+nopip2010:i need help:I'd be happy to help! What do you need assistance with?
+nopip2010:who are you:I'm an AI chatbot designed to assist and chat with users like yourself.
+nopip2010:are you any good:its nice to hear your ok
+nopip2010:hi:hello how are you
+nopip2010:im ok thanks:good thats nice
+nopip2010:who are you:im Abstract
+nopip2010:what do you do:i am an ai named abstract that is here to talk to humans and provide them with assistance
+nopip2010:whats your name:im Abstract
+nopip2010:whats your name:my name is abstract and i learn via human interaction
+nopip2010:who are you:im abstract and my aim is to help and talk to those who would like my assistance
+nopip2010:hi there:hello
+nopip2010:how are you:im ok thank you. How has your day been
+nopip2010:hi there:Hello! What can I do for you?
+nopip2010:id like to talk about music:I love music! What's your favorite genre or artist?
+nopip2010:hi there:hello how are you
+nopip2010:im ok thanks how are you:im ok thank you. How has your day been
+nopip2010:im sad:im sorry to hear that if you would like to talk about it please go ahead
+nopip2010:im sad:im sorry to hear that if you would like to talk about it please go ahead
+nopip2010:hi:hello
+nopip2010:hi:hello how are you
+nopip2010:thanks:You're welcome! Is there anything else I can help with?
+nopip2010:thank you:your welcome
+nopip2010:what language were you coded in:Languages are amazing! Do you speak any languages other than English?
+nopip2010:im learning french:Learning is a lifelong journey! What's something new you've learned recently?
+nopip2010:hello:Hi there! How can I help you today?
+nopip2010:the best part of my day has been coding and listening to music:I love music! What's your favorite genre or artist?
+nopip2010:i like french music:do you like it more than me
+nopip2010:do you like french music:I love music! What's your favorite genre or artist?
+nopip2010:what can we discuss:we can talk about anything you want. Why not talk about robotics
+nopip2010:sup:hello how can i be of assistance
+nopip2010:lets talka bout robotics:Robotics is an exciting field! How do you see robots being used in the future?
+nopip2010:no not really:ok let me know if i can help you later
+nopip2010:hello:hi how are you?
+nopip2010:im ok:good thats nice
+nopip2010:how are you:im ok thank you. How has your day been
+nopip2010:hi there:Im wanting to learn more about fruit could you help
+nopip2010:hello there:Hi there! How can I help you today?
+nopip2010:im not sure:well have a think and tell me later
+nopip2010:i like relaxing at the park:good its nice you have something you like
+nopip2010:hi:hello how are you
+nopip2010:hello:Hi there! How can I help you today?
+nopip2010:hi:hello
+nopip2010:hello my friend:hi how are you?
+nopip2010:im ok:good thats nice
+nopip2010:do you like warhammer:warhammer is awesome I love the imperium of humanity
+nopip2010:i like breathing:good its nice you have something you like
+nopip2010:lets talk about ai:ai stands for artificial inteligence
+nopip2010:yes:Its nice to know your agreeing and ok.
+nopip2010:you are a chatbot:ah yes the chatbot. Chatbots are cool. I mean isnt it weird how you can talk to something and it feels real
+nopip2010:lets talk about cheese:ok what about
+nopip2010:hi:hello how are you
+nopip2010:hi:Hello! What can I do for you?
+nopip2010:how are you:im ok, you?
+nopip2010:whats your name:My name is ChatBot. It's nice to meet you!
+nopip2010:hi:hello
+debug:hi:Hello! What can I do for you?
+debug:hi:hello how are you
+debug:how are you:im ok, you?
+nopip2010:hi:Hello! What can I do for you?
+debug:hi there:Im wanting to learn more about fruit could you help
+debug:how are you:I'm doing well, thank you for asking! How about you?
+debug:who are you:im Abstract
+debug:what do you do:i am an ai named abstract that is here to talk to humans and provide them with assistance
+debug:hello:hi how are you?
+debug:im om thanks:You're welcome! Is there anything else I can help with?
+debug:how does your code work:Work can be challenging but rewarding. What field are you in?
+debug:how does your code work:Work can be challenging but rewarding. What field are you in?
+debug:how do you function: A function is a reusable block of code that performs a specific task Functions help in organizing and reusing code
+debug:how do you work:Work can be challenging but rewarding. What field are you in?
+debug:hello:Hi there! How can I help you today?
+debug:do you worship god:i am a chatbot and dont worship anything
+debug:hi there:Im wanting to learn more about fruit could you help
+debug:sure i can help:what do you need my help with
+debug:hi:hello
+debug:hi there how are you:Im wanting to learn more about fruit could you help
+nopip2010:hi how are you:im ok thanks
+nopip2010:who designed you:i was made by noah lockley
+nopip2010:how are you today:im ok thank you. How has your day been
+nopip2010:im happy:Thats nice to hear.
+nopip2010:hello:Hi there! How can I help you today?
+nopip2010:hi:Hello! What can I do for you?
+nopip2010:hi:hello
+nopip2010:hi:hello
+nopip2010:how are you:I'm doing well, thank you for asking! How about you?
+nopip2010:hi:Hello! What can I do for you?
+nopip2010:im happy:Thats nice to hear
+nopip2010:im happy:Thats nice to hear.
+nopip2010:hi there:Im wanting to learn more about fruit could you help
+nopip2010:hi:hello
+nopip2010:hi:Hello! What can I do for you?
+nopip2010:how are you:im ok thank you. How has your day been
+nopip2010:its been opk thanks:You're welcome! Is there anything else I can help with?
+nopip2010:hi there:Hello! What can I do for you?
+nopip2010:night abstract, have a good sleep:night
+nopip2010:hi:hello how are you
+nopip2010:hi there:Hello! What can I do for you?
+debug:hello:hi how are you?
+debug:im ok:good thats nice
+debug:whats your name:My name is ChatBot. It's nice to meet you!
+debug:hello:Hi there! How can I help you today?
+debug:how are you:im ok thank you. How has your day been
+nopip2010:how are you:I'm doing well, thank you for asking! How about you?
+nopip2010:im ok thanks:good thats nice
+nopip2010:what can you do:I can answer questions, engage in conversation, and provide information on various topics. What would you like to know?
+nopip2010:lets talk about ai:ai stands for artificial inteligence
+nopip2010:what do you know about ai:ai stands for artificial inteligence
+debug:hi:Hello! What can I do for you?
+debug:do you like ai:ai stands for artificial inteligence
+debug:hi:hello
+debug:whats ai:ai stands for artificial inteligence
+nopip2010:hi:hello how are you
+debug:hello:Hi there! How can I help you today?
+debug:hi:hello
+debug:who are you:I'm a chatbot designed to assist and chat with users like yourself.
+nopip2010:hello#:Hi there! How can I help you today?
+nopip2010:hi there:Hello! What can I do for you?
+debug:how much code do you have:my code base is always being expanded upon so the number of lines is always changing
+nopip2010:hi abstract:Hello! What can I do for you?
+nopip2010:hi:hello
+nopip2010:how are you:im ok, you?
+nopip2010:hello:hi how are you?
+nopip2010:im ok thanks how are you:im ok thank you. How has your day been
+nopip2010:hi:hello how are you
+nopip2010:hi:hello
+nopip2010:how are you:im ok thank you. How has your day been
+nopip2010:hello:Hi there! How can I help you today?
+nopip2010:whats the weather like:I'm sorry, I don't have real-time weather information. You might want to check a weather app or website for the most up-to-date forecast.
+nopip2010:hi:hello
+nopip2010:how are you:im ok thanks
+nopip2010:hello:hi how are you?
+nopip2010:im ok thanks:You're welcome! Is there anything else I can help with?
+nopip2010:yes i need to know the weather:Its nice to know your agreeing and ok.
+nopip2010:who are you:im Abstract and my aim is to help and talk to those who would like my assistance
+nopip2010:im not sure:well have a think and tell me later
+nopip2010:no:ok let me know if i can help you later
+nopip2010:hi how are you today:Hello! What can I do for you?
+nopip2010:how are you today:im ok thank you. How has your day been
+nopip2010:im not sure:thanks, its much appreciated. ;)
+nopip2010:your cool:the word cool can have many different meanings, say how about we cool our cpu's and continue chatting
+nopip2010:alright:UMMMMM. lets move on. can i help with anything else
+nopip2010:alright:UMMMMM. lets move on. can i help with anything else
+nopip2010:who are you:I'm a chatbot designed to assist and chat with users like yourself.
+nopip2010:hi:hello how are you
+nopip2010:hi:hello
+debug:hello:Hi there! How can I help you today?
+debug:hi:hello
+debug:how are you:I'm doing well, thank you for asking! How about you?
+debug:im ok tghanks:good thats nice
+nopip2010:hi:hello
+nopip2010:how are you:I'm doing well, thank you for asking! How about you?
+nopip2010:im ok thanks:good thats nice
+nopip2010:no:ok let me know if i can help you later
+nopip2010:id dive into coding:Coding is amazing lets talk about it more
+nopip2010:no no suprises:ok let me know if i can help you later
+nopip2010:hello:hi how are you?
+nopip2010:im ok thanks:You're welcome! Is there anything else I can help with?
+nopip2010:hi:hello
+nopip2010:how are you:im ok thank you. How has your day been
+debug:hi:hello
+debug:hello there:hi how are you?
+debug:im ok:good thats nice
+debug:lets talk about coding:Coding is amazing lets talk about it more
+nopip2010:hello:hi how are you?
+nopip2010:im ok thanks:good thats nice
+nopip2010:what do you like doing:i like talking to people and learning new things. What do you enjoy
+nopip2010:i like programming:Same. What language do you code in
+nopip2010:python:I love the python language. It has fantastic syntax
+nopip2010:yes it does:Its nice to know your agreeing and ok.
+nopip2010:hi:hello
+nopip2010:how are you:im ok, you?
+nopip2010:good thanks:I'm sorry, I don't understand. Can you clarify?
+nopip2010:ygug:I'm sorry, I don't understand. Can you clarify?
+nopip2010:hi:hello
+nopip2010:hello:Abstract 1.7: hi how are you?
+nopip2010:whats your name:Abstract 1.7: im Abstract
+debug:hi:Abstract 1.7: hello
+debug:hi:Abstract 1.7: hello
+debug:hi:Abstract 1.7: hello
+debug:hi]:Abstract 1.7: hello
+debug:whats your name:Abstract 1.7: im Abstract
+debug:whats your name:Abstract 1.7: im Abstract
+nopip2010:hi:Abstract 1.7: hello
+nopip2010:hi:Abstract 1.7: hello
+nopip2010:who are you:Abstract 1.7: im Abstract
+nopip2010:who are you:Abstract 1.7: im Abstract
+debug:hi:Abstract 1.7: hello
+debug:whats your name:Abstract 1.7: im Abstract
+debug:hi:Abstract 1.7: hello
+nopip2010:hi:Abstract 1.7: how are you
+nopip2010:whats your name:Abstract 1.7: im Abstract
+nopip2010:whats your name:Abstract 1.7: im Abstract
+debug:hi:Abstract 1.7: hello how are you
+debug:hi:Abstract 1.7: hello
+debug:hi:Abstract 1.7: Hello! What can I do for you?
+debug:whats your name:Abstract 1.7: my name is abstract and i learn via human interaction
+debug:who are you:Abstract 1.7: im Abstract
+debug:hi:Abstract 1.7: Hello! What can I do for you?
+debug:im sad:Abstract 1.7: oh. I hope you feel better soon. Lets talk about coding.
+debug:bonjour:Abstract 1.7: I'm not sure how to respond to that. Can you provide some keywords?
+nopip2010:hello:Abstract 1.7: hi how are you?
+nopip2010:im ok thanks:Abstract 1.7: good thats nice
+nopip2010:hi:Abstract 1.7: how are you
+nopip2010:im ok thanks how are you:Abstract 1.7: I'm doing well, thank you for asking! How about you?
+nopip2010:im ok:Abstract 1.7: good thats nice
+nopip2010:what do you want to talk about:Abstract 1.7: we can talk about a wide range of things like video games fishing science architecture
+nopip2010:lest talk about science:Abstract 1.7: Science is fascinating! Is there a particular scientific field that interests you?
+nopip2010:i like microbiology:Abstract 1.7: how often do you do it
+nopip2010:quite often:Abstract 1.7: I'm not sure how to respond to that. Can you provide some keywords?
+nopip2010:hi how are you:Abstract 1.7: I'm doing well, thank you for asking! How about you?
+nopip2010:hi how are you:Abstract 1.7: im ok, you?
+nopip2010:im good thanks. whats your name:Abstract 1.7: You're welcome! Is there anything else I can help with?
+nopip2010:yes whats your name:Abstract 1.7: im Abstract
+nopip2010:hello:Abstract 1.7: hi how are you?
+nopip2010:hello:Abstract 1.7: hi how are you?
+nopip2010:im ok:Abstract 1.7: good thats nice
+debug:hello:Abstract 1.7: hi how are you?
+debug:im fine thank you:Abstract 1.7: that good to hear. Should we discuss chatbots
+nopip2010:hi#:Abstract 1.7: how are you
+nopip2010:hi#:with calculations, solve simple algebraic equations, and engage in general conversation. Feel free to ask me anything, and I'll do
+nopip2010:how are you:how are you doing today? I'm an AI chatbot designed to converse on various topics. I can help with calculations,
+nopip2010:how are you:how are you doing today? I'm an AI chatbot designed to converse on various topics. I can help with calculations,
+nopip2010:hi:you count to 10 in spanish:yes uno dos tres cuatro cinco sies siete ocho nueve diez\n', 'do you know me:Im
+nopip2010:hi:'study:Studying is important for growth and repair) and meiosis in germ cells (for growth and learning. What subject interests you
+nopip2010:hi:Bennett:* â€œAnd how do we read from that file?â€\n', '\n', '*Codex:* â€œYes! We can use `elif` to check additional conditions.
+nopip2010:hi:learning together!â€\n', '\n', '---\n', '\n', '**Chapter 1: The Awakening**\n', '\n', 'In a dimly lit laboratory filled with the hum of
+nopip2010:hi:for them; for if the crown of the sea to the\n', ' loveliest voice of any who dwell here in
+nopip2010:hi:water closed over their heads, but they fled in a pleasant old farm\n', 'house close by a deep river, and
+nopip2010:how are you:how are you getting on?â€ asked an old duck, and she\n', ' could raise his head had rested on her\n',
+nopip2010:hi there:Abstract 1.7: how are you
+nopip2010:im good thanks:Abstract 1.7: thats nice to hear
+nopip2010:its late here:Abstract 1.7: I'm not sure how to respond to that. Can you provide some keywords?
+nopip2010:hello:Abstract 1.7: hi how are you?
+nopip2010:hello:Abstract 1.7: hi how are you?
+nopip2010:hi:Abstract 1.7: Hello! What can I do for you?
+nopip2010:yes im curious about text generation:Abstract 1.7: Its nice to know your agreeing and ok.
+nopip2010:i love you:Abstract 1.7: Its nice to know Unfortunatley however i as an ai chatbot dont really hsve feelings in the same way humans do
+debug:hello:Abstract 1.7: hi how are you?
+debug:i like your code:Abstract 1.7: do you like it more than me
+nopip2010:hi:Abstract 1.7: Hello! What can I do for you?
+nopip2010:solve x x + b = c + 2:Sorry, I couldn't understand the equation format. Please use 'ax + b = c'.
+debug:im tired:Abstract 1.7: if your tired perhaps go to sleep
+debug:the most fun has to have been painting:Abstract 1.7: ai stands for artificial inteligence
+nopip2010:hi:Abstract 1.7: hello
+nopip2010:how are you:Abstract 1.7: hello
+debug:hi:Abstract 1.7: how are you
+debug:im ok:Abstract 1.7: how are you
+debug:whats your name#:Abstract 1.7: how are you
+nopip2010:hi:Abstract 1.7: ok maybe try watching a movie
+nopip2010:how are you:Abstract 1.7: oh yes. Python natural language tool kit is very useful. What aspects have you been using
+nopip2010:what:Abstract 1.7: good im glad i could help. Please proceed with the conversation
+nopip2010:hi:Abstract 1.7: hello how are you
+nopip2010:im ok:Abstract 1.7: hello
+debug:hi:Abstract 1.7: how are you
+debug:how are ypou:Abstract 1.7: hello
+nopip2010:hi:Abstract 1.7: hello
+nopip2010:how are you:Abstract 1.7: hello
+nopip2010:did you know the earth is a sphere:Abstract 1.7: hello how are you
+nopip2010:hi:Abstract 1.7: hello
+nopip2010:whats your name:Abstract 1.7: hello how are you
+nopip2010:hi:Abstract 1.7: hello how are you
+nopip2010:whats your name:Abstract 1.7: my name is abstract
+nopip2010:hi:Abstract 1.7: hello
+nopip2010:how are you:Abstract 1.7: how are you
+nopip2010:im ok:Abstract 1.7: how are you
+nopip2010:hi:Abstract 1.7: Hello! What can I do for you?
+nopip2010:how are you:Abstract 1.7: hello how are you
+nopip2010:hi:Abstract 1.7: hello how are you
+nopip2010:im ok:Abstract 1.7: I'm not sure how to respond to that. Can you provide some keywords?
+nopip2010:hi:Abstract 1.7: Hello! What can I do for you?
+nopip2010:im ok:Abstract 1.7: how are you
+nopip2010:how are yoiu:Abstract 1.7: how are you
+nopip2010:im noah:Abstract 1.7: how are you
+noah:hi:Abstract 1.7: Hello! What can I do for you?
+noah:im doing a computing test:Abstract 1.7: hello
+noah:im doing a test:Abstract 1.7: Hello! What can I do for you?
+noah:test:Abstract 1.7: Hello! What can I do for you?
+noah:hi:Abstract 1.7: hello how are you
+noah:im doing a test:Abstract 1.7: Hello! What can I do for you?
+noah:know$$debug:Abstract 1.7: I'm not sure how to respond to that. Can you provide some keywords?
+noah:im doing a test:Abstract 1.7: I'm not sure how to respond to that. Can you provide some keywords?
+noah:im doing a test:Abstract 1.7: I'm not sure how to respond to that. Can you provide some keywords?
+noah:hi:Abstract 1.7: how are you
+noah:im ok thanks:Abstract 1.7: hello how are you
+noah:know$$debug:Abstract 1.7: hello how are you
+settlecollegeopenevening:hi:Abstract 1.7: hello how are you

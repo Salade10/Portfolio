@@ -1,0 +1,24 @@
+PLANNED UPDATES:
+
+1.8 = full sentiment analysis (responding based off sentiment), implement things in dev notes, implement settings menu
+2.0 = text gen update -> have user be able you use a text generattion version (optional: not available in school)
+_______
+LOGS:
+
+5/10/24: VERSION = 1.5
+- added algebraic formula solving
+
+7/10/24: VERSION = 1.6
+- added basic sentiment analysis
+- added primative debugger (prints possible responses and you can link one response to another prompt)
+
+8/10/24: VERSION = 1.7
+- added basic text to speech
+- added a feature to debugger mode so that i can force abstract to learn
+- made ideas and feedback toggleable
+
+9/10/24: VERSION: 1.7
+- recoded so that it uses classes
+
+21/10/24: VERSION 17
+-added parsed_user_input (NOT FINISHED)
