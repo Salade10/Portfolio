@@ -1,6 +1,6 @@
 About me
 
-Hello I go by salade on the internet but my real names Noah. I enjoy computing, learning languages and playing vieo games. I first started coding during a highschool class where my computing teacher introduced me to Python. At the time i was just learning about chatbots such as CHATGPT and so i decided to develop my own chatbot named Abstract. Whilst not as clever as CHATGPT i do believe Abstract has his charms and as the catalyst for my programming love he holds a place in my heart. 
+Hello I go by salade on the internet but my real names Noah. I enjoy computing, learning languages and playing video games. I first started coding during a highschool class where my computing teacher introduced me to Python. At the time i was just learning about chatbots such as CHATGPT and so i decided to develop my own chatbot named Abstract. Whilst not as clever as CHATGPT i do believe Abstract has his charms and as the catalyst for my programming love he holds a place in my heart. 
 
 After spending many months learning about neural networks, AGI, Reinforcement learning and many other side projects I now bring you to my most recent and continuing projects:
 
